@@ -6,8 +6,8 @@ Completed **all 4 tasks** for CodeAlpha Frontend Internship.
 
 ## 📋 Tasks Table
 
-| # | Task | Demo |
-|---|------|------|
+| # | Task 
+
 | 1 | [Image Gallery](./CodeAlpha_Image_Gallery/) 
 | 2 | [Calculator](./CodeAlpha_Calculator/) 
 | 3 | [Portfolio](./CodeAlpha_Portfolio/) 
