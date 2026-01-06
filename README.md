@@ -2,20 +2,19 @@
 
 **Kanishka** - Frontend Developer | 2nd Year CSE Student [memory]
 
-Completed **all 4 tasks** for CodeAlpha Frontend Internship. [file:3]
+Completed **all 4 tasks** for CodeAlpha Frontend Internship.
 
 ## 📋 Tasks Table
 
-| # | Task | Demo | GitHub | Status |
-|---|------|------|--------|--------|
-| 1 | [Image Gallery](./CodeAlpha_Image_Gallery/) | 🔗 Soon | 📁 Folder | ⏳ WIP |
-| 2 | [Calculator](./CodeAlpha_Calculator/) | 🔗 Soon | 📁 Folder | ⏳ WIP |
-| 3 | [Portfolio](./CodeAlpha_Portfolio/) | 🔗 Soon | 📁 Folder | ⏳ WIP |
-| 4 | [Music Player](./CodeAlpha_Music_Player/) | 🔗 Soon | 📁 Folder | ⏳ WIP |
+| # | Task | Demo |
+|---|------|------|
+| 1 | [Image Gallery](./CodeAlpha_Image_Gallery/) 
+| 2 | [Calculator](./CodeAlpha_Calculator/) 
+| 3 | [Portfolio](./CodeAlpha_Portfolio/) 
+| 4 | [Music Player](./CodeAlpha_Music_Player/)
 
 **Tech:** HTML5, CSS3, Vanilla JS | **Responsive:** ✅ Mobile-first
 
 ## 🛠️ Setup
-```bash
-git clone https://github.com/YOUR_USERNAME/codealpha_tasks.git
-# Open any index.html
+
+git clone https://github.com/Kanishkadhodduraj/codealpha_tasks.git
